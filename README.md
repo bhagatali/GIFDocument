@@ -1,0 +1,2 @@
+# GIFDocument
+GIF Document
